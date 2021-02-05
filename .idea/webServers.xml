@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e5053711-01f0-44e4-a4bd-9d218a6845f2" name="73/grpclb">
+        <fileTransfer rootFolder="/data" accessType="SFTP" host="192.168.73.3" port="22" sshConfigId="9dca1ae9-9c8c-4d22-aeb5-5bbceab92b4f" sshConfig="root@192.168.73.3:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
